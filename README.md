@@ -88,7 +88,7 @@ If you use FR-NAS in your research and want to cite it in your work, please use:
       title={FR-NAS: Forward-and-Reverse Graph Predictor for Efficient Neural Architecture Search}, 
       author={Haoming Zhang and Ran Cheng},
       booktitle = {Proceedings of the International Joint Conference on Neural Networks (IJCNN)},
-      year={2024},
+      year={2024}
 }
 ```
 
