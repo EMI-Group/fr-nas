@@ -79,6 +79,21 @@ pip install https://data.pyg.org/whl/torch-1.12.0%2Bcu113/torch_spline_conv-1.2.
 pip install torch-geometric
 ```
 
+## Citing FR-NAS
+
+If you use FR-NAS in your research and want to cite it in your work, please use:
+
+```
+@misc{zhang2024frnas,
+      title={FR-NAS: Forward-and-Reverse Graph Predictor for Efficient Neural Architecture Search}, 
+      author={Haoming Zhang and Ran Cheng},
+      year={2024},
+      eprint={2404.15622},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
+
 
 ## Acknowledge
 This code is implemented based on the framework provided by [NPENASv1](https://github.com/auroua/NPENASv1?tab=readme-ov-file#acknowledge)
