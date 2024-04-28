@@ -1,8 +1,5 @@
 
-## FR-NAS: Forward-and-Reverse Graph Predictor for Efficient Neural Architecture Search
-  <a href="https://arxiv.org/abs/2404.15622">
-    <img src="https://img.shields.io/badge/paper-arxiv-red?style=for-the-badge" alt="FR-NAS Paper on arXiv">
-  </a>
+## FR-NAS: Forward-and-Reverse Graph Predictor for Efficient Neural Architecture Search [arXiv](https://arxiv.org/abs/2404.15622)
 
 Neural Architecture Search (NAS) has emerged as a key tool in identifying optimal configurations of deep neural networks tailored to specific tasks.
 However, training and assessing numerous architectures introduces considerable computational overhead. 
